@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>ariles_urdf</name>
+    <version>0.1.0</version>
+    <description>ariles_urdf</description>
+
+    <maintainer email="alexander@sherikov.net">Alexander Sherikov</maintainer>
+
+    <license>Apache 2</license>
+
+    <buildtool_depend>cmake</buildtool_depend>
+
+    <depend>ariles2_pugixml_catkin</depend>
+    <depend>ariles2_yamlcpp_catkin</depend>
+    <depend>cpput</depend>
+</package>

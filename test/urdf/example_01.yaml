@@ -1,0 +1,6 @@
+TestParameters:
+    filename: "urdf/example_01.urdf"
+    num_materials: 0
+    num_links: 4
+    num_joints: 3
+
